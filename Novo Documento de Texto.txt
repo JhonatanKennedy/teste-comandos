@@ -4,3 +4,5 @@ teste commit 3
 quarto commit main
 quinto commit
 --------- Nova branch teste -----------
+commit 1 da branch teste
+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
