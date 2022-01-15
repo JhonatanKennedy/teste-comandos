@@ -1,9 +1,6 @@
 testeeadasdasdasdadas
 teste 12312312312
 teste commit 3
-<<<<<<< HEAD
 quarto commit main
 quinto commit
-=======
 --------- Nova branch teste -----------
->>>>>>> Primeiro commit na branch teste
